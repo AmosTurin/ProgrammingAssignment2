@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of functions
-## Assignment 2 by Amos Turin
+## Assignment No. 2 by Amos Turin
 
 ## Write a short comment describing this function
 
